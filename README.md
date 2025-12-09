@@ -123,7 +123,7 @@ conda activate sgi
 pip install -r requirements.txt
 ```
 
-### Task 1 Deep Research
+### 📚 Task 1 Deep Research
 
 ```bash
 conda activate sgi
@@ -131,11 +131,11 @@ python task_1_deep_research/step_1_get_answer.py
 python task_1_deep_research/step_2_score.py
 ```
 
-### Task 2 Idea Generation
+### 💡 Task 2 Idea Generation
 
 Comming soon...
 
-### Task 3.1 Dry Experiment (Code Generation)
+### 🖥️ Task 3.1 Dry Experiment (Code Generation)
 
 1. Install the environment dependencies for running the dry experiment code.
 
@@ -163,7 +163,7 @@ python task_3_dry_experiment/step_3_run_code.py
 python task_3_dry_experiment/step_4_score.py
 ```
 
-### Task 3.2 Wet Experiment (Lab Protocol)
+### 🧪 Task 3.2 Wet Experiment (Lab Protocol)
 
 ```bash
 conda activate sgi
@@ -171,7 +171,7 @@ python task_3_wet_experiment/step_1_get_answer.py
 python task_3_wet_experiment/step_2_score.py
 ```
 
-### Task 4 Experimental Reasoning
+### 📊 Task 4 Experimental Reasoning
 
 ```bash
 conda activate sgi
