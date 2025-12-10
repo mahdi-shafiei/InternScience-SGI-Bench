@@ -1,6 +1,6 @@
 <div align="center">
 
-# A Definition of Scientific General Intelligence
+# Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows
 
 </div>
 
@@ -19,12 +19,12 @@ Scientist-aligned benchmark for evaluating Scientific General Intelligence (SGI)
 
 ---
 
-## What is Scientific General Intelligence (SGI)?
+## 🔬 What is Scientific General Intelligence (SGI)?
 SGI denotes an AI system that can autonomously navigate the full, iterative cycle of scientific inquiry—Deliberation, Conception, Action, and Perception—with the versatility and proficiency of a human scientist. SGI‑Bench operationalizes this definition via four scientist‑aligned task families: deep research, idea generation, AI‑assisted experiments (dry/wet), and multimodal experimental reasoning.
 
 ---
 
-## Framework & Tasks
+## 🎯 Framework & Tasks
 
 <p align="center">
   <img src="assets/pipeline.png" alt="SGI-Bench Pipeline" width="850">
@@ -39,7 +39,7 @@ Grounded in the Practical Inquiry Model (PIM), SGI‑Bench treats science as an 
 
 ---
 
-## Scientist‑Aligned Data Construction
+## 📂 Scientist‑Aligned Data Construction
 
 <p align="center">
   <img src="assets/subjects.png" alt="Scientist-Aligned Data Construction" width="850">
@@ -54,7 +54,7 @@ Result: High‑fidelity, scientist‑aligned tasks that are authentic, challengi
 
 ---
 
-## Agentic Evaluation Framework
+## 💯 Agentic Evaluation Framework
 
 <p align="center">
   <img src="assets/evaluation-framework.png" alt="Agentic Evaluation Framework" width="850">
@@ -69,7 +69,7 @@ This agent‑based stack formalizes scoring into traceable stages, improves repr
 
 ---
 
-## Test‑Time Reinforcement Learning (TTRL)
+## 🚀 Test‑Time Reinforcement Learning (TTRL)
 
 <p align="center">
   <img src="assets/grpo_reward_curves.png" alt="TTRL Training Dynamics" width="850">
@@ -86,7 +86,7 @@ TTRL converts open‑ended ideation into measurable test‑time optimization and
 
 ---
 
-## Leaderboard Highlights
+## 🏆 Leaderboard Highlights
 
 | Model                 | Deep Research | Idea Generation | Dry Experiment | Wet Experiment | Experimental Reasoning | SGI-Score |
 | --------------------- | ------------: | --------------: | -------------: | -------------: | ---------------------: | --------: |
@@ -112,7 +112,7 @@ TTRL converts open‑ended ideation into measurable test‑time optimization and
 
 ---
 
-## Quick Start
+## 🔥 Quick Start
 
 ```bash
 export OPENAI_API_KEY="xxxxx"
@@ -123,7 +123,7 @@ conda activate sgi
 pip install -r requirements.txt
 ```
 
-### Task 1 Deep Research 📚
+### 📚 Task 1 Deep Research
 
 ```bash
 conda activate sgi
@@ -131,11 +131,25 @@ python task_1_deep_research/step_1_get_answer.py
 python task_1_deep_research/step_2_score.py
 ```
 
-### Task 2 Idea Generation 💡
+### 💡 Task 2 Idea Generation
 
-Coming soon...
+1. Install the environment dependencies for evaluating idea generation.
 
-### Task 3.1 Dry Experiment (Code Generation) 🖥️
+```bash
+conda create -n idea python=3.10.18
+conda activate idea
+pip install -r task_2_idea_generation/idea_generation_requirements.txt
+```
+
+2. Start the evaluation.
+
+```bash
+conda activate idea
+python task_2_idea_generation/step_1_get_answer.py
+python task_2_idea_generation/step_2_score.py
+```
+
+### 🖥️ Task 3.1 Dry Experiment (Code Generation)
 
 1. Install the environment dependencies for running the dry experiment code.
 
@@ -163,7 +177,7 @@ python task_3_dry_experiment/step_3_run_code.py
 python task_3_dry_experiment/step_4_score.py
 ```
 
-### Task 3.2 Wet Experiment (Lab Protocol) 🧪
+### 🧪 Task 3.2 Wet Experiment (Lab Protocol)
 
 ```bash
 conda activate sgi
@@ -171,7 +185,7 @@ python task_3_wet_experiment/step_1_get_answer.py
 python task_3_wet_experiment/step_2_score.py
 ```
 
-### Task 4 Experimental Reasoning 📊
+### 📊 Task 4 Experimental Reasoning
 
 ```bash
 conda activate sgi
@@ -181,7 +195,7 @@ python task_4_experimental_reasoning/step_2_score.py
 
 ---
 
-## Citation
+## 📜 Citation
 
 ```
 Coming soon...
