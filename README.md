@@ -4,13 +4,24 @@
 
 </div>
 
-<p align="center">
-  <!-- <a href="https://internscience.github.io/SGI-Page/paper.pdf"><b>Paper</b></a> ·
+<!-- <p align="center">
+  <a href="https://internscience.github.io/SGI-Page/paper.pdf"><b>Paper</b></a> ·
   <a href="https://github.com/InternScience/SGI-Bench"><b>GitHub</b></a> ·
   <a href="https://internscience.github.io/SGI-Page/"><b>Page</b></a> ·
-  <a href="https://huggingface.co/collections/InternScience/sgi-bench"><b>HuggingFace</b></a> -->
-  [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging Face-SGI--Bench-yellow)](https://huggingface.co/collections/InternScience/sgi-bench)&#160;
-</p>
+  <a href="https://huggingface.co/collections/InternScience/sgi-bench"><b>HuggingFace</b></a>
+</p> -->
+
+<div align="center">
+
+[![Official Site](https://img.shields.io/badge/Official%20Site-333399.svg?logo=homepage)](https://tongyi-mai.github.io/Z-Image-blog/)&#160;
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-SGI--Bench-yellow)](https://huggingface.co/collections/InternScience/sgi-bench)&#160;
+[![Art Gallery PDF](https://img.shields.io/badge/%F0%9F%96%BC%20Art_Gallery-PDF-ff69b4)](assets/Z-Image-Gallery.pdf)&#160;
+[![Web Art Gallery](https://img.shields.io/badge/%F0%9F%8C%90%20Web_Art_Gallery-online-00bfff)](https://modelscope.cn/studios/Tongyi-MAI/Z-Image-Gallery/summary)&#160;
+<a href="https://arxiv.org/abs/2511.22699" target="_blank"><img src="https://img.shields.io/badge/Report-b5212f.svg?logo=arxiv" height="21px"></a>
+
+Welcome to the official repository for the SGI-Bench!
+
+</div>
 
 <p align="center">
   <img src="assets/teaser.png" alt="SGI Overview" width="850">
