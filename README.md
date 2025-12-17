@@ -2,7 +2,6 @@
   <h1>Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows</h1>
 </div>
 
-
 <!-- <p align="center">
   <a href="https://internscience.github.io/SGI-Page/paper.pdf"><b>Paper</b></a> ·
   <a href="https://github.com/InternScience/SGI-Bench"><b>GitHub</b></a> ·
