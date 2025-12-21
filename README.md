@@ -237,7 +237,7 @@ python sgi_score.py gpt-5.2-pro
 
 ## 📜 Citation
 
-If you find this work helpful, please consider to **star🌟** this repo. Thanks for your support!
+If you find this work helpful, please consider to **star🌟** this [repo](https://github.com/InternScience/SGI-Bench). Thanks for your support!
 
 [![InternScience/SGI-Bench Stargazers](https://reporoster.com/stars/InternScience/SGI-Bench)](https://github.com/InternScience/SGI-Bench/stargazers)
 
