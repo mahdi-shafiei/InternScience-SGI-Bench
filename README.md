@@ -249,10 +249,16 @@ Coming soon...
 
 ---
 
-## 📱 Contact Us
+## 📬 Contact Us
 
-```
-xu_wanghan@sjtu.edu.cn
-```
+- 💬 **GitHub Issues**: Please open an issue for bug reports or feature requests
+
+- 📧 **Email**: xu_wanghan@sjtu.edu.cn
+
+- 🤝 **Community**: 
+
+<p align="center">
+  <img src="assets/wechat.jpg" alt="WeChat" width="200">
+</p>
 
 <p align="right"><a href="#top">🔝Back to top</a></p>
