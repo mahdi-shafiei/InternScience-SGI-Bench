@@ -39,7 +39,7 @@ Scientist-aligned benchmark for evaluating Scientific General Intelligence (SGI)
 🚩 **Update** (2025-12-12) We evaluate the newly released `GPT-5.2-Pro` on SGI-Bench.
 
 <details>
-<summary>👉 More News (Click to Expand)</summary>
+<summary>👉 More News (Click to expand)</summary>
 
 🚩 **Update** (2025-12-10) We update the paper [PDF](https://internscience.github.io/SGI-Page/paper.pdf) on the page.
 
