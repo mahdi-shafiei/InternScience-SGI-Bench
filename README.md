@@ -258,7 +258,7 @@ Coming soon...
 - 🤝 **Community**: 
 
 <p align="center">
-  <img src="assets/wechat.jpg" alt="WeChat" width="200">
+  <img src="https://raw.githubusercontent.com/InternScience/SGI-Bench/main/assets/wechat.jpg" alt="WeChat" width="200">
 </p>
 
 <p align="right"><a href="#top">🔝Back to top</a></p>
