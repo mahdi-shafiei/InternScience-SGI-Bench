@@ -31,6 +31,7 @@ Scientist-aligned benchmark for evaluating Scientific General Intelligence (SGI)
 
 ## 🆕 Latest News
 
+🚩 **Update** (2025-12-22) We release SGI-Bench [paper](https://arxiv.org/pdf/2512.16969) on arXiv.
 
 🚩 **Update** (2025-12-19) SGI-Bench is adapted to [VLMEvalKit](https://github.com/open-compass/VLMEvalKit/pull/1358) and [SciEvalKit](https://github.com/InternScience/SciEvalKit), both of which are highly efficient and comprehensive evaluation toolkits.
 
