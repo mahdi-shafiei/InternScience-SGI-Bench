@@ -245,14 +245,11 @@ If you find this work helpful, please consider to **star🌟** this [repo](https
 If you would like to cite our work, please use the following BibTeX.
 
 ```bib
-@misc{xu2025probingscientificgeneralintelligence,
-      title={Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows}, 
-      author={Wanghan Xu and Yuhao Zhou and Yifan Zhou and Qinglong Cao and Shuo Li and Jia Bu and Bo Liu and Yixin Chen and Xuming He and Xiangyu Zhao and Xiang Zhuang and Fengxiang Wang and Zhiwang Zhou and Qiantai Feng and Wenxuan Huang and Jiaqi Wei and Hao Wu and Yuejin Yang and Guangshuai Wang and Sheng Xu and Ziyan Huang and Xinyao Liu and Jiyao Liu and Cheng Tang and Wei Li and Ying Chen and Junzhi Ning and Pengfei Jiang and Chenglong Ma and Ye Du and Changkai Ji and Huihui Xu and Ming Hu and Jiangbin Zheng and Xin Chen and Yucheng Wu and Feifei Jiang and Xi Chen and Xiangru Tang and Yuchen Fu and Yingzhou Lu and Yuanyuan Zhang and Lihao Sun and Chengbo Li and Jinzhe Ma and Wanhao Liu and Yating Liu and Kuo-Cheng Wu and Shengdu Chai and Yizhou Wang and Ouwen Zhangjin and Chen Tang and Shufei Zhang and Wenbo Cao and Junjie Ren and Taoyong Cui and Zhouheng Yao and Juntao Deng and Yijie Sun and Feng Liu and Wangxu Wei and Jingyi Xu and Zhangrui Li and Junchao Gong and Zijie Guo and Zhiyu Yao and Zaoyu Chen and Tianhao Peng and Fangchen Yu and Bo Zhang and Dongzhan Zhou and Shixiang Tang and Jiaheng Liu and Fenghua Ling and Yan Lu and Yuchen Ren and Ben Fei and Zhen Zhao and Xinyu Gu and Rui Su and Xiao-Ming Wu and Weikang Si and Yang Liu and Hao Chen and Xiangchao Yan and Xue Yang and Junchi Yan and Jiamin Wu and Qihao Zheng and Chenhui Li and Zhiqiang Gao and Hao Kong and Junjun He and Mao Su and Tianfan Fu and Peng Ye and Chunfeng Song and Nanqing Dong and Yuqiang Li and Huazhu Fu and Siqi Sun and Lijing Cheng and Jintai Lin and Wanli Ouyang and Bowen Zhou and Wenlong Zhang and Lei Bai},
-      year={2025},
-      eprint={2512.16969},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2512.16969}, 
+@article{xu2025probing,
+  title={Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows},
+  author={Xu, Wanghan and Zhou, Yuhao and Zhou, Yifan and Cao, Qinglong and Li, Shuo and Bu, Jia and Liu, Bo and Chen, Yixin and He, Xuming and Zhao, Xiangyu and others},
+  journal={arXiv preprint arXiv:2512.16969},
+  year={2025}
 }
 ```
 
