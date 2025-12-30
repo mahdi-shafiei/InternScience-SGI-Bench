@@ -236,6 +236,20 @@ python sgi_score.py gpt-5.2-pro
 
 ---
 
+## 📬 Contact Us
+
+- 💬 **GitHub Issues**: Please open an issue for bug reports or feature requests
+
+- 📧 **Email**: [xu_wanghan@sjtu.edu.cn](https://black-yt.github.io/)
+
+- 🤝 **Community**: 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/InternScience/SGI-Bench/main/assets/wechat.jpg" alt="WeChat" width="200">
+</p>
+
+---
+
 ## 📜 Citation
 
 If you would like to cite our work, please use the following BibTeX.
@@ -250,18 +264,6 @@ If you would like to cite our work, please use the following BibTeX.
 ```
 
 ---
-
-## 📬 Contact Us
-
-- 💬 **GitHub Issues**: Please open an issue for bug reports or feature requests
-
-- 📧 **Email**: [xu_wanghan@sjtu.edu.cn](https://black-yt.github.io/)
-
-- 🤝 **Community**: 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/InternScience/SGI-Bench/main/assets/wechat.jpg" alt="WeChat" width="200">
-</p>
 
 ## 🌟 Star History
 
